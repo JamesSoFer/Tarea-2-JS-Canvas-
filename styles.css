@@ -1,0 +1,28 @@
+html{
+    background-color: rgb(24, 24, 24);
+}
+
+#animation{
+    background-image: url('./imgs/hello-world.jpeg');
+    background-size: cover;
+    border: 1px solid #333;
+    width: 40%;
+    margin: 1rem auto;
+    display: block;
+}
+
+#btn{
+    color: rgb(238, 238, 238);
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: rgb(15, 160, 27);
+    width: 10%;
+    height: 5%;
+    margin-left: 835px;
+    outline: none;
+}
+
+#btn:hover{
+    background-color: rgb(192, 76, 82);
+}
